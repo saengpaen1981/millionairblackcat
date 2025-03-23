@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+#myButton{
+    width:200px;
+    height:70px;
+    border-width:4px;
+    font-size: 25px;
+    font-weight:bold;
+    padding: 10px 25px;
+    border-radius: 35px;
+    color:brown;
+    cursor:pointer;
+#myButton:active{
+    font-size:23px;
+}
+}
+.myLabels{
+    font-size: 50px;
+}
